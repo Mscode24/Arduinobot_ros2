@@ -1,0 +1,18 @@
+[0.561s] Invoking command in '/home/mariselvam/arduinobot_ws/build/arduinobot_py_examples': PYTHONPATH=/home/mariselvam/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mariselvam/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mariselvam/arduinobot_ws/build/arduinobot_py_examples/build --no-deps symlink_data
+[0.786s] running develop
+[0.944s] running egg_info
+[0.944s] writing arduinobot_py_examples.egg-info/PKG-INFO
+[0.944s] writing dependency_links to arduinobot_py_examples.egg-info/dependency_links.txt
+[0.944s] writing entry points to arduinobot_py_examples.egg-info/entry_points.txt
+[0.944s] writing requirements to arduinobot_py_examples.egg-info/requires.txt
+[0.944s] writing top-level names to arduinobot_py_examples.egg-info/top_level.txt
+[0.946s] reading manifest file 'arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.946s] writing manifest file 'arduinobot_py_examples.egg-info/SOURCES.txt'
+[0.947s] running build_ext
+[0.948s] Creating /home/mariselvam/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot-py-examples.egg-link (link to .)
+[0.948s] Installing simple_publisher script to /home/mariselvam/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.948s] Installing simple_subscriber script to /home/mariselvam/arduinobot_ws/install/arduinobot_py_examples/lib/arduinobot_py_examples
+[0.949s] 
+[0.949s] Installed /home/mariselvam/arduinobot_ws/build/arduinobot_py_examples
+[0.949s] running symlink_data
+[0.969s] Invoked command in '/home/mariselvam/arduinobot_ws/build/arduinobot_py_examples' returned '0': PYTHONPATH=/home/mariselvam/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mariselvam/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mariselvam/arduinobot_ws/build/arduinobot_py_examples/build --no-deps symlink_data
