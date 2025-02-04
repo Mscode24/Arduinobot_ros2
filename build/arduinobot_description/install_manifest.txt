@@ -12,6 +12,9 @@
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/vertical_drive_arm.STL
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+/home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/Launch/gazebo.launch.py
+/home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/Launch/display.launch.py
+/home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
 /home/mariselvam/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.sh

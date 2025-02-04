@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/mariselvam/arduinobot_ws/scr/arduinobot_description/launch": No such
+  file or directory.
+
+[0m

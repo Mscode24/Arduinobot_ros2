@@ -1,11 +1,11 @@
 Metadata-Version: 2.1
 Name: arduinobot-py-examples
 Version: 0.0.0
-Summary: TODO: Package description
+Summary: A package with examples for ArduinoBot integration
 Home-page: UNKNOWN
 Maintainer: Mariselvam
-Maintainer-email: edsols@todo.todo
-License: TODO: License declaration
+Maintainer-email: your-email@example.com
+License: MIT
 Platform: UNKNOWN
 
 UNKNOWN
